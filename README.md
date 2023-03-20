@@ -1,4 +1,4 @@
-###Whatever happens, happens :smoking: :smoking: :smoking:. 
+### Whatever happens, happens :smoking: :smoking: :smoking:. 
 <!--
 **mackchay/mackchay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
